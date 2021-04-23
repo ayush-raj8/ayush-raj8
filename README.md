@@ -27,4 +27,4 @@
 <a href="https://github.com/ayush-raj8/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-raj8&layout=compact&theme=radical" />
 </a>
-<p> <img align="https://github-readme-streak-stats.herokuapp.com/?user=ayush-raj8&theme=dark" </p>
+<p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-raj8&theme=dark" </p>
