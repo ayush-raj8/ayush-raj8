@@ -19,3 +19,12 @@
 ## Tech Stack 💻
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="55" height="55" />   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/scikit-learn/scikit-learn.png" width="55" height="55" />   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" width="55" height="55" />  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" width="55" height="55" />    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" width="55" height="55" />   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="55" height="55" />     
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="55" height="55" />   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="55" height="55" />   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="55" height="55" />     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="40" height="40" />    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
+
+<img src="https://komarev.com/ghpvc/?username=ayush-raj8" alt="ayush-raj8" />
+<a href="https://github.com/ayush-raj8/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ayush-raj8&repo=github-readme-stats&show_icons=true&theme=radical" />
+</a>
+<a href="https://github.com/ayush-raj8/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-raj8&layout=compact&theme=radical" />
+</a>
+<p> <img align="https://github-readme-streak-stats.herokuapp.com/?user=ayush-raj8&theme=dark" </p>
