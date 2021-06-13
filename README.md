@@ -6,7 +6,7 @@
 
  <img src="dribbble_beach.gif" align="right" alt="Logo" width="520" height="390">
  
-- 👨‍💻 Third Year Bitsian pursuing CSE.
+- 👨‍💻 Pre Final Year || CSE UG @ BITS Pilani,Goa.
 
 - 🔭 I’m currently working on ML/DL problems with end to end deployment.
  
