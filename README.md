@@ -6,14 +6,15 @@
 
  <img src="dribbble_beach.gif" align="right" alt="Logo" width="520" height="390">
  
-- 👨‍💻 Pre Final Year || CSE UG @ BITS Pilani,Goa.
+- 👨‍💻 Final Year || CSE UG @ BITS Pilani,Goa.
 
 - 🔭 I’m currently working on ML/DL problems with end to end deployment.
  
 - 👯 I’m looking to collaborate on ML Projects
 
-- 💬Like to talk about Django, Flask, Tensorflow, DSA,Java,Python
+- 💬Like to talk about Django, Flask, Tensorflow, DSA,Java,Python,Golang
 
+- Backend Developer, MTS Intern at Nutanix
 
 
 ## Tech Stack 💻
